@@ -3,7 +3,7 @@
 Charalink Chat は、ユーザーが VRM アバターを使用して、会話 AI Gemini と ElevenLabs API を通じて自分の好きなキャラクターとリアルタイムで対話できる Next.js ベースのウェブアプリケーションです。Vercel 上でデプロイされており、Cursor、GPT-Enginer、V0 を活用することで効率的に開発しています。
 
 ### プロジェクト概要
-- **URL**: [Charalink Chat デモサイト](https://charalinkchat-8r3yu0w5m-nisss78s-projects.vercel.app/)
+- **URL**: [Charalink Chat デモサイト](https://charalinkchat.vercel.app/)
 - **主な技術**: Next.js, Vercel, Cursor, GPT-Enginer, V0
 - **主な機能**: アバター作成、音声のカスタマイズ、リアルタイムチャット
 
